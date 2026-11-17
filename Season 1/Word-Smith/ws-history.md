@@ -5,11 +5,11 @@ finds it by the markers below, anywhere in the vault. Counts only, never
 your text. Everything between the markers is rewritten; write what you
 like outside them.
 
-### 2026 — 4 days, +3,604 net
+### 2026 — 4 days, +3,610 net
 
 | Date | Added | Deleted | Net |
 | --- | ---: | ---: | ---: |
-| 2026-11-16 | 30 | 5 | 25 |
+| 2026-11-16 | 36 | 5 | 31 |
 | 2026-11-08 | 856 | 334 | 522 |
 | 2026-11-07 | 3227 | 1100 | 2127 |
 | 2026-11-06 | 1092 | 162 | 930 |
@@ -21,7 +21,7 @@ like outside them.
 | 2026-11-16 | README.md | 3 | 0 | 3 |
 | 2026-11-16 | Season 3/Clio Season 3.md | 2 | 0 | 2 |
 | 2026-11-16 | Season 3/Nitchi/Nitchi.md | 8 | 0 | 8 |
-| 2026-11-16 | Season 3/Nitchi/Story/Nitchi (Season 1 Day 1).md | 17 | 5 | 12 |
+| 2026-11-16 | Season 3/Nitchi/Story/Nitchi (Season 1 Day 1).md | 23 | 5 | 18 |
 | 2026-11-08 | Season 1/Granule/Granule.md | 8 | 0 | 8 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Events.md | 8 | 1 | 7 |
 | 2026-11-08 | Season 1/Granule/Organizers/Granule Groups.md | 8 | 0 | 8 |
