@@ -1,3 +1,3 @@
 #season3 #nitchi 
 
-Congragul
+Congrats!

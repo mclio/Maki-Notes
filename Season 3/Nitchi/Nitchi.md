@@ -1,3 +1,3 @@
 #season3 #nitchi
 
-[[Nitchi (Day 1)]]
+[[Nitchi (Season 1 Day 1)]]
