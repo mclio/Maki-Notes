@@ -696,7 +696,7 @@
   "historyPerFile": true,
   "historyCountPasted": false,
   "historyBaselines": {
-    "README.md": 23,
+    "README.md": 26,
     "Season 2/KesVerse/Stories/KesVerse Doc.md": 6927,
     "Season 2/KesVerse/Worldbuilding/Keselin Reproduction.md": 178,
     "Season 2/KesVerse/Worldbuilding/Ige/Ige Word Definitions.md": 263,
@@ -743,7 +743,8 @@
     "Season 2/Dragon Ball/Dragon Ball Fanfics.md": 9,
     "Season 2/Dragon Ball/Deity/Dragon Ball Deity.md": 416,
     "Season 2/Dragon Ball/Matty Edition/Dragon Ball Matty Edition.md": 10,
-    "Season 2/Dragon Ball/Matty Edition/Dragon Ball Z Matty Edition.md": 40
+    "Season 2/Dragon Ball/Matty Edition/Dragon Ball Z Matty Edition.md": 40,
+    "Season 3/Clio Season 3.md": 1
   },
   "exportOpts": {
     "format": "docx",
