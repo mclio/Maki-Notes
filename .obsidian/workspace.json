@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 3/Nitchi/Nitchi Part 1.md",
+                "file": "Season 3/Nitchi/Nitchi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nitchi Part 1"
+              "title": "Nitchi"
             }
           }
         ]
@@ -217,8 +217,9 @@
   },
   "active": "c72f60d8e4a3e626",
   "lastOpenFiles": [
-    "Season 3/Nitchi/Nitchi.md",
     "Season 3/Clio Season 3.md",
+    "Season 2/Matty Season 2.md",
+    "Season 3/Nitchi/Nitchi.md",
     "Season 3/Nitchi/Nitchi Part 1.md",
     "Season 2/KesVerse/Stories/Season 1/Gego.md",
     "Season 2/KesVerse/Stories/Season 1/The Strong One.md",
@@ -230,7 +231,6 @@
     "Season 2/Dragon Ball/Matty Edition/Dragon Ball Matty Edition.md",
     "Season 2/Dragon Ball/Deity/Sagas/DBD Saga 1.md",
     "Season 2/Dragon Ball/Deity/Sagas",
-    "Season 2/Matty Season 2.md",
     "Season 2/Dragon Ball/Dragon Ball Fanfics.md",
     "Season 2/KesVerse/Stories/Season 1/A Dark Time.md",
     "Season 2/Dragon Ball/Deity",
