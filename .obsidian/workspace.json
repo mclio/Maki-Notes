@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 3/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "README"
             }
           }
         ]
@@ -217,8 +217,8 @@
   },
   "active": "c72f60d8e4a3e626",
   "lastOpenFiles": [
+    "Season 3/Clio Season 3.md",
     "Season 2/Dragon Ball/Deity/Dragon Ball Deity.md",
-    "Season 3/Untitled.md",
     "Season 3",
     "Season 2/Dragon Ball/Matty Edition/Dragon Ball Z Matty Edition.md",
     "Season 2/Dragon Ball/Matty Edition/Dragon Ball Matty Edition.md",
