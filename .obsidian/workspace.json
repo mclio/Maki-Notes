@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 3/Nitchi/Story/Nitchi Story.md",
+                "file": "Season 3/Nitchi/Story/Nitchi (Day 1).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nitchi Story"
+              "title": "Nitchi (Day 1)"
             }
           }
         ],
@@ -240,10 +240,10 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "38ff71c0b42f161d",
+  "active": "f036c65057f199b6",
   "lastOpenFiles": [
     "Season 3/Nitchi/Story",
-    "Season 3/Nitchi/Story/Nitchi Story.md",
+    "Season 3/Nitchi/Story/Nitchi (Day 1).md",
     "Season 3/Nitchi/Nitchi.md",
     "Season 3/Clio Season 3.md",
     "Season 2/Matty Season 2.md",

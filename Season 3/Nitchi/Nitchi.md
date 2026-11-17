@@ -1,3 +1,3 @@
 #season3 #nitchi
 
-[[Nitchi Story]]
+[[Nitchi (Day 1)]]
