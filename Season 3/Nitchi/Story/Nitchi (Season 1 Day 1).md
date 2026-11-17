@@ -5,6 +5,5 @@ You have been hired to work at Nitchi Tech!
 It's the most popular tech corporation in Umo.
 
 You'll be doing the nightshifts.
-It doesn't pay much individually.
-$4.75 every hour.
-But for 3 nights a week it can add up.
+It doesn't pay much individually. $4.75 every hour.
+But for 3 nights a week for who knows how long it can add up.
