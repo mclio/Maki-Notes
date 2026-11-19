@@ -59,12 +59,24 @@
             "id": "64c745c4f332319d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "Season 3/Clio Season 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "lucide-file",
+              "title": "Clio Season 3"
             }
           }
         ],
@@ -252,8 +264,9 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "64c745c4f332319d",
+  "active": "38ff71c0b42f161d",
   "lastOpenFiles": [
+    "Season 3/The Galaxy",
     "Season 3/Nitchi/Story",
     "Season 3/Nitchi/Story/Nitchi (Season 1 Day 1).md",
     "Season 3/Nitchi/Nitchi.md",
@@ -292,7 +305,6 @@
     "Season 2/KesVerse/Organizers",
     "Season 2/KesVerse/Untitled.canvas",
     "Season 1/Word-Smith",
-    "Season 2/KesVerse/Stories/Arc 2",
     "Season 2/KesVerse/Stories/Untitled.canvas",
     "Assets/storystructure-freytag.jpg",
     "Assets/storystructure-5acts.jpg",
