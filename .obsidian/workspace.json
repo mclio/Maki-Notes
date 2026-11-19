@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "Nitchi (Season 1 Day 1)"
             }
+          },
+          {
+            "id": "64c745c4f332319d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
       "word-smith:Open the Word-Smith menu": false
     }
   },
-  "active": "f036c65057f199b6",
+  "active": "64c745c4f332319d",
   "lastOpenFiles": [
     "Season 3/Nitchi/Story",
     "Season 3/Nitchi/Story/Nitchi (Season 1 Day 1).md",
